@@ -7,7 +7,7 @@ For all those people who find it more convenient to bother you with their questi
 ## Install
 
 ```
-npm install --global lmgtfy
+npm install --save lmgtfy
 ```
 
 ## Usage
@@ -19,6 +19,10 @@ lmgtfy('github unicorns');
 // http://lmgtfy.com/?q=github%20unicorns
 ```
 ## CLI
+
+```
+npm install --global lmgtfy
+```
 
 ```
 $ lmgtfy --help

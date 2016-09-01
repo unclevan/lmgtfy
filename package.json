@@ -1,7 +1,7 @@
 {
   "name": "lmgtfy",
   "version": "1.0.0",
-  "description": "Let me Google that for you",
+  "description": "Let me Google that for you link generator",
   "license": "MIT",
   "repository": "vinkla/lmgtfy",
   "author": {

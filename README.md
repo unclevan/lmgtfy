@@ -1,6 +1,6 @@
 # lmgtfy [![Build Status](https://img.shields.io/travis/vinkla/lmgtfy/master.svg?style=flat)](https://travis-ci.org/vinkla/lmgtfy)
 
-> Let me Google that for you.
+> Let me Google that for you link generator.
 
 For all those people who find it more convenient to bother you with their question rather than [Google it](http://lmgtfy.com/) for themselves.
 

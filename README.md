@@ -12,14 +12,22 @@ npm install --global lmgtfy
 
 ## Usage
 
+```javascript
+const lmgtfy = require('lmgtfy');
+
+lmgtfy('github unicorns');
+// http://lmgtfy.com/?q=github%20unicorns
+```
+## CLI
+
 ```
 $ lmgtfy --help
 
   Usage
     $ lmgtfy <query>
   Example
-    $ lmgtfy 'unicorns github'
-    http://lmgtfy.com/?q=unicorns%20github
+    $ lmgtfy 'github unicorns'
+    http://lmgtfy.com/?q=github%20unicorns
 ```
 
 ## License

@@ -1,0 +1,50 @@
+{
+  "name": "lmgtfy",
+  "version": "1.0.0",
+  "description": "Let me Google that for you",
+  "license": "MIT",
+  "repository": "vinkla/lmgtfy",
+  "author": {
+    "name": "Vincent Klaiber",
+    "email": "hello@vinkla.com",
+    "url": "vinkla.com"
+  },
+  "bin": {
+    "lmgtfy": "cli.js"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js",
+    "index.js"
+  ],
+  "keywords": [
+    "case",
+    "cli",
+    "for",
+    "google",
+    "let",
+    "lmgtfy",
+    "me",
+    "that",
+    "you"
+  ],
+  "dependencies": {
+    "meow": "^3.6.0",
+    "strict-uri-encode": "^1.1.0",
+    "update-notifier": "^1.0.2"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "execa": "^0.4.0",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true,
+    "space": true
+  }
+}

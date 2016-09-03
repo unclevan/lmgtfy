@@ -30,7 +30,7 @@ $ lmgtfy --help
   Usage
     $ lmgtfy <query>
   Example
-    $ lmgtfy 'github unicorns'
+    $ lmgtfy github unicorns
     http://lmgtfy.com/?q=github%20unicorns
 ```
 

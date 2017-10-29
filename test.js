@@ -7,6 +7,13 @@ test('lmgtfy', t => {
 });
 
 test('cli', async t => {
-  t.is(await execa.stdout('./cli.js', ['unicorns github']), 'http://lmgtfy.com/?q=unicorns%20github');
-  t.is(await execa.stdout('./cli.js', ['unicorns', 'github']), 'http://lmgtfy.com/?q=unicorns%20github');
+  t.is(
+    await execa.stdout('./cli.js', ['unicorns github']),
+    'http://lmgtfy.com/?q=unicorns%20github'
+  );
+
+  t.is(
+    await execa.stdout('./cli.js', ['unicorns', 'github']),
+    'http://lmgtfy.com/?q=unicorns%20github'
+  );
 });

@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 'use strict';
 const meow = require('meow');
-const lmgtfy = require('./');
+const lmgtfy = require('.');
 
 const cli = meow(`
 	Usage

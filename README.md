@@ -1,4 +1,4 @@
-# lmgtfy [![Build Status](https://img.shields.io/travis/vinkla/lmgtfy/master.svg?style=flat)](https://travis-ci.org/vinkla/lmgtfy)
+# lmgtfy [![Build Status](https://badgen.net/travis/vinkla/lmgtfy/master)](https://travis-ci.org/vinkla/lmgtfy)
 
 > Let me Google that for you link generator.
 

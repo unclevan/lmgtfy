@@ -34,12 +34,12 @@
     "you"
   ],
   "dependencies": {
-    "meow": "^3.7.0",
+    "meow": "^5.0.0",
     "strict-uri-encode": "^2.0.0"
   },
   "devDependencies": {
     "ava": "*",
-    "execa": "^0.8.0",
+    "execa": "^0.10.0",
     "xo": "*"
   },
   "xo": {

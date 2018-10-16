@@ -3,5 +3,5 @@
 const strictUriEncode = require('strict-uri-encode');
 
 module.exports = query => {
-  return 'http://lmgtfy.com/?q=' + strictUriEncode(query);
+  return 'https://lmgtfy.com/?q=' + strictUriEncode(query);
 };

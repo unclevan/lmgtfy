@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "ava": "*",
-    "execa": "^0.10.0",
+    "execa": "^1.0.0",
     "xo": "*"
   },
   "xo": {

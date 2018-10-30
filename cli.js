@@ -8,7 +8,7 @@ const cli = meow(`
 	  $ lmgtfy <query>
 	Example
 	  $ lmgtfy 'unicorns github'
-	  http://lmgtfy.com/?q=unicorns+github
+	  https://lmgtfy.com/?q=unicorns+github
 `);
 
 console.log(lmgtfy(cli.input.join(' ')));

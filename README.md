@@ -16,7 +16,7 @@ $ npm install --save lmgtfy
 const lmgtfy = require('lmgtfy');
 
 lmgtfy('github unicorns');
-// http://lmgtfy.com/?q=github%20unicorns
+// https://lmgtfy.com/?q=github%20unicorns
 ```
 ## CLI
 
@@ -31,7 +31,7 @@ $ lmgtfy --help
     $ lmgtfy <query>
   Example
     $ lmgtfy github unicorns
-    http://lmgtfy.com/?q=github%20unicorns
+    https://lmgtfy.com/?q=github%20unicorns
 ```
 
 ## License

@@ -6,8 +6,8 @@
   "repository": "vinkla/lmgtfy",
   "author": {
     "name": "Vincent Klaiber",
-    "email": "hello@vinkla.com",
-    "url": "vinkla.com"
+    "email": "hello@doubledip.se",
+    "url": "doubledip.se"
   },
   "bin": {
     "lmgtfy": "cli.js"
